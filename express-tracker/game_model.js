@@ -1,5 +1,7 @@
 
-const envs = require ('dotenv').config
+const envs = require ('dotenv/types').config
+
+
 
 const Pool = require('pg').Pool;
 
