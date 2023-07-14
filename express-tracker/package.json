@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bregadev/tracker#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "pg": "^8.3.3",
